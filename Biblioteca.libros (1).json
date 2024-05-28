@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "664d9ddb3275c13bd1e15a2b"
+  },
+  "title": "SOC",
+  "author": "Aaron",
+  "ano": 2020,
+  "publicadora": "Marcos",
+  "genero": "Drama",
+  "_class": "com.daw.project.model.Libro"
+},
+{
+  "_id": {
+    "$oid": "664db08546ed002f1e96c5b1"
+  },
+  "title": "Pablo y el portátil filosofal",
+  "author": "Alex Ollé",
+  "ano": 2018,
+  "publicadora": "Victor Bleda",
+  "genero": "Romance",
+  "_class": "com.daw.project.model.Libro"
+},
+{
+  "_id": {
+    "$oid": "664db08546ed002f1e96c5b2"
+  },
+  "title": "Don Quijote de la Mancha",
+  "author": "Miguel de Cervantes",
+  "ano": 1605,
+  "publicadora": "Juan de la Cuesta",
+  "genero": "Novela satírica",
+  "_class": "com.daw.project.model.Libro"
+},
+{
+  "_id": {
+    "$oid": "664db08546ed002f1e96c5b3"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "ano": 1949,
+  "publicadora": "Secker & Warburg",
+  "genero": "Distopía",
+  "_class": "com.daw.project.model.Libro"
+},
+{
+  "_id": {
+    "$oid": "664db08546ed002f1e96c5b4"
+  },
+  "title": "Orgullo y prejuicio",
+  "author": "Jane Austen",
+  "ano": 1813,
+  "publicadora": "T. Egerton, Whitehall",
+  "genero": "Novela romántica",
+  "_class": "com.daw.project.model.Libro"
+},
+{
+  "_id": {
+    "$oid": "664db08546ed002f1e96c5b5"
+  },
+  "title": "Matar a un ruiseñor",
+  "author": "Harper Lee",
+  "ano": 1960,
+  "publicadora": "J.B. Lippincott & Co.",
+  "genero": "Novela de iniciación",
+  "_class": "com.daw.project.model.Libro"
+},
+{
+  "_id": {
+    "$oid": "664db08546ed002f1e96c5b6"
+  },
+  "title": "El gran Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "ano": 1925,
+  "publicadora": "Charles Scribner's Sons",
+  "genero": "Ficción literaria",
+  "_class": "com.daw.project.model.Libro"
+},
+{
+  "_id": {
+    "$oid": "664db08546ed002f1e96c5b7"
+  },
+  "title": "Las aventuras de Tom Sawyer",
+  "author": "Mark Twain",
+  "ano": 1876,
+  "publicadora": "American Publishing Company",
+  "genero": "Novela de aventuras",
+  "_class": "com.daw.project.model.Libro"
+},
+{
+  "_id": {
+    "$oid": "664db08546ed002f1e96c5b8"
+  },
+  "title": "La Odisea",
+  "author": "Homero",
+  "ano": -800,
+  "publicadora": "Desconocida",
+  "genero": "Épica",
+  "_class": "com.daw.project.model.Libro"
+},
+{
+  "_id": {
+    "$oid": "664db08546ed002f1e96c5b9"
+  },
+  "title": "Harry Potter y la piedra filosofal",
+  "author": "J.K. Rowling",
+  "ano": 1997,
+  "publicadora": "Bloomsbury",
+  "genero": "Fantasía",
+  "_class": "com.daw.project.model.Libro"
+},
+{
+  "_id": {
+    "$oid": "664db08546ed002f1e96c5ba"
+  },
+  "title": "El señor de los anillos",
+  "author": "J.R.R. Tolkien",
+  "ano": 1954,
+  "publicadora": "George Allen & Unwin",
+  "genero": "Fantasía épica",
+  "_class": "com.daw.project.model.Libro"
+},
+{
+  "_id": {
+    "$oid": "664dbd65c97b78217ea9d3ab"
+  },
+  "title": "Pablo y Alex the total lovers",
+  "author": "Miguel de Cervantes",
+  "ano": 2021,
+  "publicadora": "Santillana",
+  "genero": "Romance",
+  "_class": "com.daw.project.model.Libro"
+}]
